@@ -16,5 +16,5 @@ Email: joel@jsbelectrical.nz
 
 Phone: 022 416 0701
 
-![Logo](https://github.com/meganbaker88/jsb-website/blob/master/jsb%20electrical%20logo.png)
+![Logo](/meganbaker88/jsb-website/blob/master/jsb%20electrical%20logo.png)
 
