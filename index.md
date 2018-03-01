@@ -15,3 +15,6 @@ My name is Joel Baker and I am a registered electrician. Feel free to email or c
 Email: joel@jsbelectrical.nz
 
 Phone: 022 416 0701
+
+![Logo](/meganbaker88/jsb-website/blob/master/jsb%20electrical%20logo.png)
+
