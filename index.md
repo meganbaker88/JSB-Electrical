@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+# JSB Electrical
 
-You can use the [editor on GitHub](https://github.com/meganbaker88/jsb-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+JSB Electrical provides both residential and commercial electrical services in the Wellington region. Work can include but is not limited to:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- pre wires on new builds
+- rewiring houses and commercial building
+- electrical maintentance and new fixtures.  
 
-### Markdown
+## Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Joel Baker and I am a registered electrician. Feel free to email or call me anytime on the contacts below. I am happy to chat to you about any job - big or small - and provide you a quote for work
 
-```markdown
-Syntax highlighted code block
+**Joel Baker**
+Email: joel@jsbelectrical.nz
+Phone: 022 416 0701
 
 # Header 1
 ## Header 2
