@@ -1,6 +1,6 @@
 # JSB Electrical
 
-JSB Electrical provides both residential and commercial electrical services in the Wellington region. Work can include but is not limited to:
+JSB Electrical provides both residential and commercial electrical services in the Wellington region. Work includes:
 
 - pre wires on new builds
 - rewiring houses and commercial building
@@ -8,10 +8,9 @@ JSB Electrical provides both residential and commercial electrical services in t
 
 ## Contact
 
-My name is Joel Baker and I am a registered electrician. Feel free to email or call me anytime on the contacts below. I am happy to chat to you about any job - big or small - and provide you a quote for work
+My name is Joel Baker and I am a registered electrician. Feel free to email or call me anytime on the contacts below. I am happy to chat to you about any job - big or small - and provide you a quote for work.
 
-**Joel Baker**
-
+Joel Baker
 Email: joel@jsbelectrical.nz
 Phone: 022 416 0701
 
