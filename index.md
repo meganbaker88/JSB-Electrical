@@ -11,6 +11,7 @@ JSB Electrical provides both residential and commercial electrical services in t
 My name is Joel Baker and I am a registered electrician. Feel free to email or call me anytime on the contacts below. I am happy to chat to you about any job - big or small - and provide you a quote for work
 
 **Joel Baker**
+
 Email: joel@jsbelectrical.nz
 Phone: 022 416 0701
 
